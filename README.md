@@ -30,8 +30,8 @@ Below are **all working solutions**, explained neutrally and technically.
 The classic solution.
 
 **How it works:**  
-Buy **1–2 TRX** on any exchange and send it to your wallet.  
-This usually covers several USDT transfers.
+Buy **30 TRX** on any exchange and send it to your wallet.  
+This usually covers a USDT transfer.
 
 **Pros:**  
 - Works with all wallets  
@@ -111,7 +111,7 @@ A practical example is:
 
 | Situation | Recommended Method |
 |----------|---------------------|
-| You can access exchanges | Buy 1–2 TRX |
+| You can access exchanges | Buy 30 TRX |
 | You want a technical approach | Energy rental |
 | Your wallet supports fee-in-USDT | Use gas-in-USDT mode |
 | Your USDT is stuck / no TRX possible | Energy delegation (e.g., trxfree.us) |
